@@ -1,0 +1,70 @@
+#
+###################################
+# Site wide configuration
+####################################
+title: Tech & Tutus
+email:
+description: my experiences, ideas, &amp; learnings.
+url: https://briaugenreich.github.io/
+keywords: ["blog", "computer science", "programming", "software engineering", "technology", "tech" , "diversity"]
+
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:          America/New_York
+markdown:          kramdown
+highlighter:       rouge
+excerpt_separator: <!--more-->
+permalink:         /articles/:year-:month/:title
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: Tech & Tutus
+  avatar: bri_aug.png
+  job:
+  bio: "A blog about tech, diversity, and other random rumbinlgs."
+  email:
+  disqus-shortname: https-briaugenreich-github-io
+  twitter: #username
+  facebook: #username
+  google:
+    plus: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: briaugenreich
+  gitlab: #username
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: briana-augenreich-93b4a191
+  skype: #username
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  500px: #username
+  codepen: #username
+  reddit: #username
+  telegram: #username
