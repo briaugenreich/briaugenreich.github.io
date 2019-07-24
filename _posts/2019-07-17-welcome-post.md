@@ -1,50 +1,52 @@
 ---
 layout: post
-title: "Welcome to Bris thoughts! "
-excerpt: "TODO fill i, blah blah blah "
+title: "Welcome to Tech&Tutus!"
+excerpt: "learn/share/rmember ..searching for an outlet to share my thoughts ideas and expereinces with the wolrd, so this blog began! "
 categories: [about me]
 comments: true
 image:
-  feature: https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?crop=entropy&dpr=2&fit=crop&fm=jpg&h=475&ixjsv=2.1.0&ixlib=rb-0.3.5&q=50&w=1250
-  credit: Greg Rakozy
-  creditlink: https://unsplash.com/photos/oMpAz-DN-9I
+  feature:
+  credit:
+  creditlink:
 ---
 
-This is a sample post with a large feature image[^1] up top and tons of text. Odio ad blue bottle vinyl, 90's narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney's. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.
+With the number of blogs out there (especially in tech) you can find yourself intimitaed by ideas, experiences, ____. And as scott stratten has said:
 
-Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.
+> ### “Too often, feeling intimidated becomes our excuse not to be awesome.”
 
-## Cupidatat 90's lo-fi authentic try-hard
+So today my friends I embark on a journey to tackle a lot of initimateing challenges by starting a blog. Now this blog does not have much of a focus on topic. As i think through all of my interestes and exerpiences im excited to share i can see many topics coming from pen to paper. (hopefully im stitll a little on the slow side writing... ) I plan to mainly focus on my expreiences witth being a sforware engineer but From challenges in diviereity, teaching dance, technology, tooling, architecturer  , career growth, communication, yoga, hikes, working with others, expereinces books reviews, really any fucking thing that comes to mind.
 
-In pug Portland incididunt mlkshk put a bird on it vinyl quinoa. Terry Richardson shabby chic +1, scenester Tonx excepteur tempor fugiat voluptate fingerstache aliquip nisi next level. Farm-to-table hashtag Truffaut, Odd Future ex meggings gentrify single-origin coffee try-hard 90's.
+ All these seemingly random ass topics will three main goals for me and you to get a little uncomrfotable and intimitadted in order to grow into the best damn human we can possibly be.
 
-* Sartorial hoodie
-* Labore viral forage
-* Tote bag selvage
-* DIY exercitation et id ugh tumblr church-key
+Somewhere add a link to about me... so i can ramble about myself.
 
-Incididunt umami sriracha, ethical fugiat VHS ex assumenda yr irure direct trade. Marfa Truffaut bicycle rights, kitsch placeat Etsy kogi asymmetrical. Beard locavore flexitarian, kitsch photo booth hoodie plaid ethical readymade leggings yr.
+## Learn / grow
+I dont have all the asnwers and never claim to be tthe smartest most expert in the room (cause im not and asshole) So as i As i come accross new professional and eprsonal expereinces , tools, technologies no better way than explainnging thoughts to others to dolidify my understanding . Take on new tasks and challenge myself to understand and *clearly* explain the ideas.
 
-Aesthetic odio dolore, meggings disrupt qui readymade stumptown brunch Terry Richardson pour-over gluten-free. Banksy american apparel in selfies, biodiesel flexitarian organic meh wolf quinoa gentrify banjo kogi. Readymade tofu ex, scenester dolor umami fingerstache occaecat fashion axe Carles jean shorts minim. Keffiyeh fashion axe nisi Godard mlkshk dolore. Lomo you probably haven't heard of them eu non, Odd Future Truffaut pug keytar meggings McSweeney's Pinterest cred. Etsy literally aute esse, eu bicycle rights qui meggings fanny pack. Gentrify leggings pug flannel duis.
 
-## Forage occaecat cardigan qui
 
-Fashion axe hella gastropub lo-fi kogi 90's aliquip +1 veniam delectus tousled. Cred sriracha locavore gastropub kale chips, iPhone mollit sartorial. Anim dolore 8-bit, pork belly dolor photo booth aute flannel small batch. Dolor disrupt ennui, tattooed whatever salvia Banksy sartorial roof party selfies raw denim sint meh pour-over. Ennui eu cardigan sint, gentrify iPhone cornhole.
+> #### “If you can’t explain it simply, you don’t understand it well enough.” – Albert Einstein
 
-> Whatever velit occaecat quis deserunt gastropub, leggings elit tousled roof party 3 wolf moon kogi pug blue bottle ea. Fashion axe shabby chic Austin quinoa pickled laborum bitters next level, disrupt deep v accusamus non fingerstache.
+ Challenge myself to become a better writter / communicator, I shy away from writing becuase then something is defined. What if im wrong, What if ___ what if ___ ? Well who gives a shit. Im finding my voice snadshareing  find my voice.
 
-Tote bag asymmetrical elit sunt. Occaecat authentic Marfa, hella McSweeney's next level irure veniam master cleanse. Sed hoodie letterpress artisan wolf leggings, 3 wolf moon commodo ullamco. Anim occupy ea labore Terry Richardson. Tofu ex master cleanse in whatever pitchfork banh mi, occupy fugiat fanny pack Austin authentic. Magna fugiat 3 wolf moon, labore McSweeney's sustainable vero consectetur. Gluten-free disrupt enim, aesthetic fugiat jean shorts trust fund keffiyeh magna try-hard.
+gain feedback - if i am wrong what a rgeat way to learn!
 
-## Hoodie Duis
+## Share  
+Share these exeperinces for others to consume in a hopefully nonpretensionus way. Have you ever read a [stackvoerflow post]() twevle times and still walked away gping what the fuck? Somoe recent awesome leadership groups and work situations has helped me realzies that just because somoeone cant explain something simply does not make it complicated or make me stupid. So here i am hoping to help otthers feel embowered and ___ to learn / boost their kills.
 
-Actually salvia consectetur, hoodie duis lomo YOLO sunt sriracha. Aute pop-up brunch farm-to-table odio, salvia irure occaecat. Sriracha small batch literally skateboard. Echo Park nihil hoodie, aliquip forage artisan laboris. Trust fund reprehenderit nulla locavore. Stumptown raw denim kitsch, keffiyeh nulla twee dreamcatcher fanny pack ullamco 90's pop-up est culpa farm-to-table. Selfies 8-bit do pug odio.
+Shared expereinces reate community and ___ isolation. That feeling that this is only happening to you and____ especially as a minitory or female and ive seen the value first hand how a community (inperson) can change the course of your trajectory and personal outlook (maybe ill share that)
 
-### Thundercats Ho!
+## Remember / reflect
 
-Fingerstache thundercats Williamsburg, deep v scenester Banksy ennui vinyl selfies mollit biodiesel duis odio pop-up. Banksy 3 wolf moon try-hard, sapiente enim stumptown deep v ad letterpress. Squid beard brunch, exercitation raw denim yr sint direct trade. Raw denim narwhal id, flannel DIY McSweeney's seitan. Letterpress artisan bespoke accusamus, meggings laboris consequat Truffaut qui in seitan. Sustainable cornhole Schlitz, twee Cosby sweater banh mi deep v forage letterpress flannel whatever keffiyeh. Sartorial cred irure, semiotics ethical sed blue bottle nihil letterpress.
+Finally this blog will help document my experiences for me to remmeber and reflect on all the good things ive come across.
 
-Occupy et selvage squid, pug brunch blog nesciunt hashtag mumblecore skateboard yr kogi. Ugh small batch swag four loko. Fap post-ironic qui tote bag farm-to-table american apparel scenester keffiyeh vero, swag non pour-over gentrify authentic pitchfork. Schlitz scenester lo-fi voluptate, tote bag irony bicycle rights pariatur vero Vice freegan wayfarers exercitation nisi shoreditch. Chambray tofu vero sed. Street art swag literally leggings, Cosby sweater mixtape PBR lomo Banksy non in pitchfork ennui McSweeney's selfies. Odd Future Banksy non authentic.
 
-Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.
 
-[^1]: Texture image courtesty of [Lovetextures](http://www.lovetextures.com/)
+So heres to a journey of you reading what is an attempt for me to be a blogger.
+
+```js
+clever code block about repeating or not giving up or some shit
+```
+
+
+Thanks for reading <i class="fa fa-heart heart-icon"></i> bri.
