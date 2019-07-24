@@ -34,7 +34,7 @@ gain feedback - if i am wrong what a rgeat way to learn!
 ## Share  
 Share these exeperinces for others to consume in a hopefully nonpretensionus way. Have you ever read a [stackvoerflow post]() twevle times and still walked away gping what the fuck? Somoe recent awesome leadership groups and work situations has helped me realzies that just because somoeone cant explain something simply does not make it complicated or make me stupid. So here i am hoping to help otthers feel embowered and ___ to learn / boost their kills.
 
-Shared expereinces reate community and ___ isolation. That feeling that this is only happening to you and____ especially as a minitory or female and ive seen the value first hand how a community (inperson) can change the course of your trajectory and personal outlook (maybe ill share that)
+I belive in the power of Shared expereinces reate and community . Battlyng isolation, inferoiryt, sterotypes, jerks, bad days, and inspirtation. That feeling that this is only happening to you and____ especially as a minitory or female and ive seen the value first hand how a community (inperson) can change the course of your trajectory and personal outlook (maybe ill share that)
 
 ## Remember / reflect
 
