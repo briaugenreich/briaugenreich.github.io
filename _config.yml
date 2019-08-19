@@ -32,7 +32,7 @@ kramdown:
 #
 owner:
   name: Tech & Tutus
-  avatar: bri.png
+  avatar: portraits/bri.png
   job:
   bio: "A blog about tech, diversity, and other random rumbinlgs."
   email:
