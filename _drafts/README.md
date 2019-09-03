@@ -1,8 +1,35 @@
 # Ideas
-[ ] welcome
-[ ] my journey to tech
-[ ] bias??
-[ ] OSI model
-[ ] service mesh
-[ ] tmux
-[ ] terminial commands 
+- [ ] welcome
+- [ ] my journey to tech
+- [ ] bias??
+- [ ] OSI model
+- [ ] service mesh
+- [ ] tmux
+- [ ] terminial commands for torubleshooting )systemctl, status, docker , telnet, netstate, updateb , logs, lslblk, dig, dmesg,
+- [ ] AMIs -> amis vs userdata
+- [ ] Terraform & Ansible
+- [ ]  Restful
+- [ ] Service mesh -> haproxy, consul , registrator
+- [ ] DNSmasq forarding details
+- [ ] Consul
+- [ ] The mesospher stack
+- [ ] Consul template, use cases with registrator
+- [ ] hraproxy configs and reading
+- [ ] hikes in Austin
+- [ ] moving across country
+- [ ] difficult conversations + people
+- [ ] aquisition culture
+- [ ] troubleshooting
+- [ ] microservice
+- [ ] mid career engineering -> referenc manager article
+- [ ] layoffs
+- [ ] cidr blocks
+- [ ] tough conversations
+- [ ] sysetmd vs nit d vs systemctl s upstart  
+- [ ] aptget, yum install curl, vs wget
+- [ ] how i made this blog
+- [ ] cloudflre @ work
+- [ ] reugulated cloud computing
+- [ ] encyrption/ rehydration
+- [ ] last privalge
+- [ ] https -> tcp ->
