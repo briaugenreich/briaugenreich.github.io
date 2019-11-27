@@ -18,6 +18,7 @@ TODO :
 - [X] about me  
 - [X] research loading better times -> http://instantclick.io/github-pages-and-apex-domains  + https://blog.cloudflare.com/secure-and-fast-github-pages-with-cloudflare/  
 - [X] route tech and tutus and briaugenreich.io to cloudflare  
+- [ ] resize images
 - [ ] create logo   
 - [X] draft list of potential topics  
 - [ ] finish intro draft  
