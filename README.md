@@ -67,3 +67,7 @@ http://127.0.0.1:4000
 - [ ] moving across country
 - [ ] difficult conversations + people
 - [ ] aquisition culture
+- [ ] fallacies + book review fom josh
+- [ ] 48 powers? (book review)
+- [ ] pragmatic programmer top 10 rules
+- [ ] thick vs thin clients
