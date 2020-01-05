@@ -21,9 +21,9 @@ http://127.0.0.1:4000
 - [ ] resize images
 - [ ] create logo   
 - [X] draft list of potential topics  
-- [ ] finish intro draft  
+- [X] finish intro draft  
 - [ ] not found page
-- [ ] link to "my journey" "the daily grind" topics in about me
+- [X] link to "my journey" "the daily grind" topics in about me
 
 
 ## Ideas
